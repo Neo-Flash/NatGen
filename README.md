@@ -1,14 +1,17 @@
-# 🌟 NatGen 🌟
+# NatGen
 
 <br>
 
-🐾 Hi there! We're the NatGen project team! (ฅ́˘ฅ̀)♡
+👋 Welcome to the NatGen project!
 
 <br>
 
-🚧 We're currently busy tidying up our little code bundles 🧹✨, making them super neat and shiny!
+🛠️ We are currently organizing and refining the codebase.
 
 <br>
 
-🚀 The code will be launching very soon! Stay tuned! ⏳🥰
+✨ Code will be uploaded here soon. Thanks for your patience!
 
+<br>
+
+➡️ Stay tuned for updates!
