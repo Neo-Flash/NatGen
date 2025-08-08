@@ -77,7 +77,7 @@ Download the **qm9_processed.7z** and **drugs_processed.7z** from this [url](htt
 Download **rdkit_folder.tar.gz** from this [url](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JNGTDF) and untar this file by `tar -xvf rdkit_folder.tar.gz`
 
 ### Chirality Prediction Dataset
-We use natural products from the Coconut dataset with clear literature sources for training and inference. Please visit the official Coconut website to download: https://coconut.naturalproducts.net/
+We use natural products from the Coconut dataset for training and inference. Please visit the official Coconut website to download: https://coconut.naturalproducts.net/
 
 
 ## Training and inference
