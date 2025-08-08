@@ -121,7 +121,7 @@ Visit NatGen-DB at: https://www.lilab-ecust.cn/natgen
 
 ## Citation
 
-Our work has been submitted to ChemRxiv and is currently under review at a peer-reviewed journal. Please cite our work as follows:
+Our work has been submitted to ChemRxiv (https://chemrxiv.org/engage/chemrxiv/article-details/6820654c927d1c2e660f6511) and is currently under review at a peer-reviewed journal. Please cite our work as follows:
 
 ```
 Xu J, Hu Q, Sun C, Zhang S, Li X, Ding X, et al. Accurate Structure Prediction of Natural Products with NatGen. ChemRxiv. 2025; doi:10.26434/chemrxiv-2025-1v9j8
