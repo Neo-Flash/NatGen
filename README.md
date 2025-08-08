@@ -109,7 +109,7 @@ python eval_conf.py
 ```
 
 ## Checkpoints
-We have provided the pretrained checkpoints on [GoogleDrive](https://drive.google.com/drive/)
+We have provided the pretrained checkpoints on [GoogleDrive](https://drive.google.com/drive/folders/15DM2g4yt2KnkjNDsQmLVKIJQH0iHZhAa?usp=drive_link/)
 
 ## NatGen NPs database (NatGen-DB)
 
