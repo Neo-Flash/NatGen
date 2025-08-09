@@ -601,7 +601,7 @@ def main():
                 current_stage = 1 if epoch < args.stage_switch_epoch else 2
                 tb_writer.add_scalar("stage/current_stage", current_stage, epoch)
         print("Evaluating")
-        chirality_accuracy_chiral, node_accuracy, eval_test_loss_dict = evaluate(model, device, test_loader, args)
+        chirality_accuracy_chiral, node_accuracy, eval_test_loss_dict = evaluate(model, device, valid_loader, args)
         print(f"Chirality Accuracy 100%: {chirality_accuracy_chiral:.4f}")
         print(f"Node Accuracy: {node_accuracy:.4f}")
         for k, v in eval_test_loss_dict.items():
